@@ -1,0 +1,10 @@
+aiogram==3.0.0b7
+asyncpg
+aiohttp
+apscheduler
+python-dotenv
+aiolimiter
+tenacity
+aiocache
+pydantic
+pytz
