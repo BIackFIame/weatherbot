@@ -123,7 +123,7 @@ Permission is hereby granted to use, copy, and modify this software solely for p
 ### Terms of Use
 
 - **Personal and Non-Commercial Use:**
-  - You are free to use, modify, and distribute this bot for personal and non-commercial purposes without any restrictions.
+  - You are free to use, copy, and modify this software solely for personal and non-commercial purposes, provided that a link to the original project is retained.
 
 - **Commercial Use:**
   - Any commercial use, including integration into commercial products, services, or academic works (e.g., term papers, theses), requires prior written consent from the author.
