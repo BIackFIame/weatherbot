@@ -62,7 +62,7 @@
 5. **Run the Bot**
 
    ```bash
-   python main.py
+   python bot.py
    ```
 
    *Alternatively, using Docker:*
