@@ -115,22 +115,7 @@
 
 This project is licensed under a [Custom License](LICENSE).
 
-Permission is hereby granted to use, copy, and modify this software solely for personal and non-commercial purposes, provided that a link to the original project is retained. Any commercial use requires prior written consent from the author.
-
-
 © 2024 [BIackFIame]
-
-### Terms of Use
-
-- **Personal and Non-Commercial Use:**
-  - You are free to use, copy, and modify this software solely for personal and non-commercial purposes, provided that a link to the original project is retained.
-
-- **Commercial Use:**
-  - Any commercial use, including integration into commercial products, services, or academic works (e.g., term papers, theses), requires prior written consent from the author.
-
-### Attribution
-
-When distributing or publishing modified versions of this software, you must include this license and retain a link to the original project.
 
 ### Contact
 
